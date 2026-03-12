@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Developing IKE Tracker – Financial App (Full Stack), 📊 Data processing and reporting as a Data Processing Specialist at Alstom Polska<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on Fullstack data-focused projects (Python, Django, Pandas, automation)<br><br>🤝 I’m looking for help with scaling and optimizing Django-based web applications<br><br>🌱 I’m currently learning - front stack, contenerization <br><br>⚡ Fun fact I completed three technical degrees (Telecommunications, Automation & Robotics, and Management & Production Engineering)<br>      I enjoy speedcubing, video games, and musical instruments
+🔭 I’m currently working on Developing IKE Tracker – Financial App (Full Stack), 📊 Data processing and reporting as a Data Processing Specialist at Alstom Polska<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on Fullstack data-focused projects (Python, Django, Pandas, automation)<br><br>🤝 I’m looking for help with scaling and optimizing Django-based web applications<br><br>🌱 I’m currently learning - front stack, contenerization <br><br>⚡ Fun fact I completed two technical degrees (Automation & Robotics, and Management & Production Engineering)<br>      I enjoy speedcubing, video games, and musical instruments
 
 
 ## 🌐 Socials:
